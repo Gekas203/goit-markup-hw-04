@@ -205,6 +205,14 @@ body {
      flex-shrink: 0;
 }
 
+.features-renctangle {
+     border-radius: 4px;
+     background-color: var(--secobdary-bg-color);
+     width: 264px;
+     height: 112px;
+     margin-bottom: 8px;
+}
+
 .features-item-title {
      font-size: 20px;
      font-family: Roboto;
@@ -302,6 +310,36 @@ body {
      letter-spacing: 0.02em;
      color: var(--main-text-color);
      text-align: center;
+}
+
+/* Customers */
+
+.customers {
+     padding-top: 120px;
+     padding-bottom: 120px;
+}
+
+.customers-title {
+      color: var(--secondary-text-color);
+      text-align: center;
+      font-size: 36px;
+      font-weight: 700;
+      line-height: 1.1;
+      letter-spacing: 0.02em;
+      text-transform: capitalize;
+}
+
+.customers-list {
+     display: flex;
+     gap: 24px;
+     padding-top: 72px;
+}
+
+.customers-rectangle {
+     border-radius: 4px;
+     border: 1px solid #8E8F99;
+     width: 168px;
+     height: 88px;
 }
 
 
