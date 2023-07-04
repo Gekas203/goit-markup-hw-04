@@ -211,6 +211,9 @@ body {
      width: 264px;
      height: 112px;
      margin-bottom: 8px;
+     display: flex;
+     justify-content: center;
+     align-items: center;
 }
 
 .features-item-title {
@@ -229,6 +232,11 @@ body {
      line-height: 1.5;
      letter-spacing: 0.02em;
      color: var(--main-text-color);
+}
+
+.features-icon {
+     width: 64px;
+     height: 64px;
 }
 
 /* Work section */
@@ -340,6 +348,15 @@ body {
      border: 1px solid #8E8F99;
      width: 168px;
      height: 88px;
+     display: flex;
+     justify-content: center;
+     align-items: center;
+}
+
+.customers-icon {
+     width: 104px;
+     height: 56px;
+     color: rgba(142, 143, 153, 1);
 }
 
 
