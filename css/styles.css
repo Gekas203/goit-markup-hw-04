@@ -300,6 +300,7 @@ body {
      background-color: var(--main-bg-color);
      width: calc((100% - 72px) / 4);
      border-radius: 0px 0px 4px 4px;
+     box-shadow: 0px 2px 1px 0px rgba(46, 47, 66, 0.08), 0px 1px 1px 0px rgba(46, 47, 66, 0.16), 0px 1px 6px 0px rgba(46, 47, 66, 0.08);
 }
 
 .team-item-title {
@@ -429,6 +430,7 @@ body {
      color: var(--main-bg-color);
      background-color: var(--secondary-focus-color);
      border: 1px solid transparent;
+     box-shadow: 0px 2px 2px 0px rgba(0, 0, 0, 0.12), 0px 2px 1px 0px rgba(0, 0, 0, 0.08), 0px 3px 1px 0px rgba(0, 0, 0, 0.10);
 }
 
 /* Images */
@@ -442,6 +444,7 @@ body {
 
 .main-list-item {
      width: calc((100% - 48px) / 3);
+
 }
 
 .main-images-list .main-item-title {
