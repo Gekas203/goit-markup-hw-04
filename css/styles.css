@@ -236,11 +236,6 @@ body {
      color: var(--main-text-color);
 }
 
-.features-renctangle svg {
-     width: 64px;
-     height: 64px;
-}
-
 /* Work section */
 
 .work {
