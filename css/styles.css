@@ -309,12 +309,7 @@ body {
 
 .team-link-icon:hover,
 .team-link-icon:focus {
-     background-color: var(--secondary-focus-color);
-}
-
-.team-link-icon svg {
-     width: 16px;
-     height: 16px;
+     background-color: #404BBF;;
 }
 
 .team-svg-icon {
