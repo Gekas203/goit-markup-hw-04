@@ -476,11 +476,6 @@ body {
      background-color: #31d0aa;
 }
 
-.second-footer-link svg {
-     width: 24px;
-     height: 24px;
-}
-
 .secon-footer-svg {
      fill: var(--secobdary-bg-color);
 }
