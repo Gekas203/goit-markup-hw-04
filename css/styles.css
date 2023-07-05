@@ -4,7 +4,6 @@
      --main-bg-color: #FFF;
      --secobdary-bg-color: #F4F4FD;
      --main-focus-color: #4D5AE5;
-     --secondary-focus-color: #404BBF;
      --border-color: #8e8f99;
 }
 
@@ -390,8 +389,8 @@ body {
 
 .customers-rectangle:hover,
 .customers-rectangle:focus {
-     border-color: var(--secondary-focus-color);
-     color: var(--secondary-focus-color);
+     border-color: #404BBF;;
+     color: #404BBF;;
 }
 
 .customers-item {
