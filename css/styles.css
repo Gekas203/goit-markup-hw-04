@@ -398,12 +398,6 @@ body {
      height: 88px;
 }
 
-.customers-rectangle svg {
-     width: 104px;
-     height: 56px;
-     color: rgba(142, 143, 153, 1);
-}
-
 .customers-icon {
      fill: currentColor;
 }
