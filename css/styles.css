@@ -105,7 +105,7 @@ body {
 
 .header-link:hover,
 .header-link:focus {
-     color: var(--secondary-focus-color);
+     color: #404BBF;
 }
 
 .main-container {
@@ -384,8 +384,8 @@ body {
 
 .customers-rectangle:hover,
 .customers-rectangle:focus {
-     border-color: #404BBF;;
-     color: #404BBF;;
+     border-color: #404BBF;
+     color: #404BBF;
 }
 
 .customers-item {
@@ -515,7 +515,7 @@ body {
 .main-item-button:hover,
 .main-item-button:focus {
      color: var(--main-bg-color);
-     background-color: var(--secondary-focus-color);
+     background-color: #404BBF;
      border: 1px solid transparent;
      box-shadow: 0px 2px 2px 0px rgba(0, 0, 0, 0.12), 0px 2px 1px 0px rgba(0, 0, 0, 0.08), 0px 3px 1px 0px rgba(0, 0, 0, 0.10);
 }
