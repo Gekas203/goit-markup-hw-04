@@ -406,4 +406,12 @@ img {
     margin-bottom: 16px;
 }
 
+.footer-container {
+    display: flex;
+    align-items: baseline;
+}
+
+.second-footer-container {
+    margin-right: 120px;
+}
 /*============/FOOTER STYLES==========*/
